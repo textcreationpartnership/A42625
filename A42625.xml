@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Geometry of landskips and paintings made familiar and easie useful to limners in drawing, and gentlemen in choosing pictures, and beneficial to architects and carvers in proportioning the graces and statues of their buildings to the due distance of sight, and to country gentlemen in the more convenient framing of their platforms for seats and prospects / in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 42 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42625</idno>
+            <idno type="STC">Wing G528</idno>
+            <idno type="STC">ESTC R42050</idno>
+            <idno type="EEBO-CITATION">23292625</idno>
+            <idno type="OCLC">ocm 23292625</idno>
+            <idno type="VID">109533</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42625)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109533)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1701:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Geometry of landskips and paintings made familiar and easie useful to limners in drawing, and gentlemen in choosing pictures, and beneficial to architects and carvers in proportioning the graces and statues of their buildings to the due distance of sight, and to country gentlemen in the more convenient framing of their platforms for seats and prospects / in a letter to a friend.</title>
+               </titleStmt>
+               <extent>[4], 28 p. ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 28.</note>
+                  <note>Reproduction of the original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Perspective --  Early works to 1800.</term>
+               <term>Landscape painting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109533:1"/>
+            <p>THE GEOMETRY OF Landskips and Paintings Made Familiar and Eaſie: <hi>
+                  <g ref="char:V">Ʋ</g>ſeful to Limners in Drawing, and Gentlemen in Chooſing PICT<g ref="char:V">Ʋ</g>RES;</hi>
+            </p>
+            <p>And Beneficial to Architects and Carvers in Proportioning the Graces and Statues of their Buildings to the due Diſtance of Sight, and to Country Gentlemen in the more convenient Framing of their Plat<g ref="char:EOLhyphen"/>forms for Seats, and Proſpects.</p>
+            <p>In a LETTER to a FRIEND.</p>
+            <q>
+               <p>
+                  <hi>He that denies Demonſtrations, reflects on his own Pow<g ref="char:EOLhyphen"/>er of reaſoning, and not on the Truths he encounters.</hi>
+               </p>
+               <p>
+                  <hi>Demonſtrations prove themſelves, the Work therefore a<g ref="char:EOLhyphen"/>bout Demonſtrations is not to prove but illuſtrate them.</hi>
+               </p>
+            </q>
+            <q>Quo minime reris gurgite piſces erit.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> in the <hi>Old-Baily,</hi> 1690.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109533:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have here ſent you, as in a Letter, the whole body of the Geometry of Landskips and Paintings; and ſuch as it is, I freely ten<g ref="char:EOLhyphen"/>der it to your peruſal: this I must ſay for it, That it is not, as is too uſual in Mathematical Treatiſes, obſcur'd with the Formalities of Pe<g ref="char:EOLhyphen"/>dantry, and rather a Knot of <g ref="char:V">Ʋ</g>ſeleſs Problems, than a Solid Inſtruction, for I have made it my particular purpoſe, to make it pertinent, hearty, and brief; I have aim'd at the Marrow of my Subject, and not at little trifling Ornaments: I ſhall ſay no more, but if you can bear with the Roughneſs of the Stile, incident to Demonſtra<g ref="char:EOLhyphen"/>tion, I do not doubt but I ſhall give you all the Satisfaction my Subject requires; and ſo I diſ<g ref="char:EOLhyphen"/>miſs you.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109533:3"/>
+            <pb n="1" facs="tcp:109533:3"/>
+            <head>THE GEOMETRY OF Landskips and Paintings Made Familiar and Eaſie.</head>
+            <div n="1" type="chapter">
+               <head>CAP. I. <hi>Of the Geometry of Painting and Landskips in general.</hi>
+               </head>
+               <p>THE Geometry of Painting is rather Op<g ref="char:EOLhyphen"/>tick or Perſpective, than real; for if a Man were to be ſeen at that diſtance, as to ap<g ref="char:EOLhyphen"/>pear as little as in a common Landskip, 'twere impoſſible with common ſight to diſcern any part of him diſtinctly, much leſs any feature about him: So likewiſe of the Leaves of Trees, and Or<g ref="char:EOLhyphen"/>naments of Buildings; for at ſuch a diminiſhing di<g ref="char:EOLhyphen"/>ſtance they would all appear obſcure and confus'd, and not diſtinct and compleat, indeed, juſt as if they
+<pb n="2" facs="tcp:109533:4"/> were going to leave the verge of ſight, unleſs reduc'd back again by Perſpective.</p>
+               <p>A Landskip is therefore rather a neat contraction or Epitome of things viſible than a real view of them, and upon that account in ſuch Pictures we admit the niceſt lines and features; thus though a Man re<g ref="char:EOLhyphen"/>preſented in a Landskip be ſix Foot high (in com<g ref="char:EOLhyphen"/>mon intendment) yet there though he contain but the length of ſix Inches, and little better than half an Inches breadth in his Face, his delineaments are as proportionate and diſtinct, as if the ſight were at ſix Foot proportion; but yet even in ſuch a Land<g ref="char:EOLhyphen"/>skip, if a Man were to be repreſented at any di<g ref="char:EOLhyphen"/>ſtance, there lies a skill too to imitate the Natural darkneſs and obſcureneſs of diſtance, as before was requir'd to ſhew the diſtinct Figure of the Man re<g ref="char:EOLhyphen"/>preſented near. The ſame may be ſaid of the Pi<g ref="char:EOLhyphen"/>ctures of Houſes and Trees, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CAP. II. <hi>Of the Sky.</hi>
+               </head>
+               <p>BUT that you may the better enter into the apprehenſion of the Nature of Landskips, you muſt note, that as every Landskip contains juſt two demy-ſemy-circles, or one half Circle compleat, to wit, one Spherical and Concave of the Sky, and the other in Plano of the Earth; ſo all Landskips are to be ruled by the meaſures of the Circle, to wit,
+<pb n="3" facs="tcp:109533:4"/> by Tangents, in laying down the ſurface of the Earth in Plano, and by Sines, in decyphering the Sky over-head.</p>
+               <p>Now, as Landskips are thus ruled in all parts by the Circle, ſo is every part about a Landskip even demonſtrable; hence it is that by a Landskip you may ſet off the Altitude of the Sun, the four Quar<g ref="char:EOLhyphen"/>ters of the World, the Sun's greateſt Declination, and the Latitude of the place; ſo as by a Dial too you may ſet off the hour of the day, and except it be about the time of the <hi>Solſtices,</hi> almoſt the day of the Month when the Picture was made: But as theſe are Niceties too ſpeculative for ordinary Pictures, ſo I ſhall leave them to be trac'd by thoſe that think it more worth their time and leiſure; for my part, I think if the Sky be rude drawn as Clouds often make it appear, 'tis as well if not pleaſanter to the Eye, than a clear Proſpect; nay, and if a clear Proſpect be drawn, if the Limner commit not groſs Abſurdities, as in a Landskip of Snow, to give the Sun too great Altitude, or in the Landskip of a particular place, to ſet off the Points of the Compaſs falſely. If, I ſay, he commit not ſuch faults as theſe, 'tis no matter al<g ref="char:EOLhyphen"/>moſt where he ſets the Sun, for in ſome Sign or other the Sun viſits all Quarters; indeed he muſt beware of ſetting him too near the <hi>Zenith,</hi> without he in<g ref="char:EOLhyphen"/>tends to draw a Proſpect of ſome place under the Lines: But of this enough.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="4" facs="tcp:109533:5"/>
+               <head>CAP. III. <hi>Of the Earth praecognita.</hi>
+               </head>
+               <p>THE next part of a Landskip is the ſetting off the Earth in Plano; but before I enter on that, I ſhall lay down, for the common Readers In<g ref="char:EOLhyphen"/>ſtruction, theſe few <hi>Praecognita.</hi>
+               </p>
+               <p n="1">1. All Meaſures about the World and other round Bodies are performed by the Circle; and as all cir<g ref="char:EOLhyphen"/>cular Bodies, whether greater or leſs, have the ſame Nature of the Circle; ſo altering the proportions of ſeveral Circles, the common Circular Relations or Meaſures follow the ſeveral Cirles in their ſeveral proportions; thus for inſtance. Every Circle is di<g ref="char:EOLhyphen"/>vided into 360 equal parts, called Degrees; ſo that whether by reaſon of the quantity of the Circle each of thoſe parts be an Inch or a Mile, 'tis all one in relation to the Circular Meaſure, for if each part be a Mile, then the whole is 360 Miles round; and if each part be an Inch, the whole will be 360 Inches round, the quarter of each 90, and the Semi-diameter, or the diſtance from the Center to the Circumference as long as 60 Degrees of it; that is, as two thirds of the 90, or Quadrant, <hi>&amp;c.</hi> So that from hence it is, that by a Quadrant (that is a quarter of a Circle) though it be little in compaſs, we take the proportion even of the Heavens, a Body, though Circular, yet almoſt infinitely larger. As for Example.</p>
+               <pb n="5" facs="tcp:109533:5"/>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>
+                  <hi>Explanation.</hi> Juſt as the little Quadrant at (a) meaſures the great Quadrant at (b) ſo the Heavens are meaſur'd by a Quadrant below up<g ref="char:EOLhyphen"/>on the Earth; and as the Compaſſes divide the little Quadrant (a) at (d) (h) into equal parts, ſo the Eye by the Quadrant (a) divides the Quadrant (b) or any great Circular Body into (c) (e) that is, the ſame equal and pro<g ref="char:EOLhyphen"/>portional parts with it, and ſo were the ſame to be divided even into a thouſand parts, or were it a whole Circle, or half, or a Quadrant, you ſee 'twould be all one, the greater Circle muſt needs be commanded and divided juſtly by the leſs.</p>
+               <p>So further the leſs Circle commands the greater in all other proportions likewiſe; thus as the di<g ref="char:EOLhyphen"/>ſtance
+<pb n="6" facs="tcp:109533:6"/> (a) (h) is equal to the Semidiameter (a) (f) of the leſſer Circle, ſo the diſtance (e) (b) in the greater Circle is equal to his Semidiameter (b) (f) but of this enough.</p>
+               <p n="2">2. Beſides this, you muſt know that all Circles at 45 Degrees, that is, at half of 90, or the Quadrant naturally ſet off a ſquare Angle anſwering to their Semidiameter, ſo that by the Quadrant we cannot on<g ref="char:EOLhyphen"/>ly meaſure the Circle, but a Square; nay, by the other Degrees we are able to ſet off any Triangle or other Figure whatſoever. For Example.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>
+                  <hi>Explanation.</hi> You ſee that the Line of 45 Degrees (c) (d) as well ſets off the points of Squa<g ref="char:EOLhyphen"/>ring in the greater Circle (b) as in the leſſer (a) and ſo it would do in any Circle of any Magnitude whatever. As for ſetting of Tri<g ref="char:EOLhyphen"/>angles by the Circle, it does not relate to my preſent purpoſe, and therefore I ſhall paſs it by without more writing.</p>
+               <p n="3">
+                  <pb n="7" facs="tcp:109533:6"/> 3. Laſtly, You muſt know, That where one ſtreight Line cuts another, be it at any Angle whatever, it will make equal Angles on both ſides, thus: The An<g ref="char:EOLhyphen"/>gles (a) (b) are equal, ſo the Angles (c) (d) are equal, and not only ſo, but the croſs-line at (a) runs an equal length from over againſt the point (e) to cut (i) as it does afterwards to come over againſt the point (f) The like may be ſaid of the Croſs-line (c) ſo that if you know how much a croſs-line verges from a ſtreight in a yard by the Rules of ordinary Proportions, you may know how much it will verge even at 10000 Miles end.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+            </div>
+            <div n="4" type="chapter">
+               <head>CAP. IV. <hi>Of a Landskip on a Plain.</hi>
+               </head>
+               <p>THESE <hi>Praecognita</hi> being thus laid down and explained, I ſhall now be able with the greater eaſe and freedom to diſcover to my Reader the due proportions of Diſtances and Magnitudes in ſuch Landskips, and to that purpoſe I ſhall firſt deſcribe one of the Proportion I before hinted at in the firſt Chapter, to wit, where an Inch repreſents a Foot, that is, where a Man of ſix Foot ſhall be repreſented by ſix Inches; ſo where a Tree two Foot broad, ſhall be decypher'd by two Inches, and of forty Foot high by 40 Inches.</p>
+               <pb n="8" facs="tcp:109533:7"/>
+               <p> The Plain where the Sight is loſt to all diſtinction.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <div n="1" type="section">
+                  <head>
+                     <hi>The Explanation of this Figure.</hi> SECT. I.</head>
+                  <p>By this Figure I ſuppoſe a Man's Foot to be plac'd at (b) and his Eye at (a) juſt ſix Foot diſtance, which is the Quadrant or part of a Circle a Man makes upon his ſtanding in Proſpect upon the Earth. Now in ſuch caſe ſix Foot diſtance from him makes
+<pb n="9" facs="tcp:109533:7"/> up half the Quadrant, to wit, 45 degrees, as I before ſhewed in my <hi>Praecognita,</hi> and ſo 12 Foot takes up half the Line: (c) (d) in its Section according to the third Rule of Angles in my <hi>Praecognita,</hi> and ſo 18 Foot but a third part, <hi>&amp;c.</hi> and ſo on to 576 and 1152, after which there can be no diſtinction, but the ſight is loſt in the level of the Plain: indeed if there happen to be a Man walking, or a Hill at a greater diſtance upon the Plain, the ſight is again re<g ref="char:EOLhyphen"/>newed according to the Altitude of what appears up<g ref="char:EOLhyphen"/>on the Plain, and ſhall be diſcernable by the Rule of Opticks, till it come to be a Minute in the Circle of Sight, as ſhall be explain'd anon.</p>
+                  <p>
+                     <hi>Object.</hi> But you will ſay 1152 Foot, which is leſs than a quarter of a Mile, is but a little way to diſ<g ref="char:EOLhyphen"/>cern upon a Plain: 'Tis true, and yet further we can<g ref="char:EOLhyphen"/>not ſee any thing diſtinctly on it, except, as I have ſaid, ſomething appear that may be raiſed above the Plain: thus whilſt I ſtand on the Shore I may ſee a Ship upon the Sea at ſome Leagues diſtance, but if I ſtand even with the Water, I cannot ſee a Plank float though never ſo broad, as I have ſaid; a quarter of a Mile off indeed were there any Iſland a Mile broad in ſuch a caſe and exactly level to the Water, a weak tan<g ref="char:EOLhyphen"/>gent might poſſibly touch mine eye at a diſtance with a dimmer ray, but more would be imperceptible.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II. <hi>The Demonſtration of the Figure.</hi>
+                  </head>
+                  <p>What I have ſaid before in my <hi>Praecognita</hi> makes the Demonſtration of this Figure plain; for the line (c) (d) being juſt ſix Foot diſtant from the line of ſtand<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:109533:8"/> (a) (b) as muſt be becauſe (d) is the incident point of 45 Degrees upon the Plain, as I have ſhewn before: In my <hi>Praecognita</hi> it will neceſſarily, I ſay, follow from hence, that the ſight at 45 Degrees cannot but ſet off ſix Foot; ſo likewiſe if the ſight at the line of line of ſtanding (a) (b) upon its going ſix Foot diſtance from the ſaid line cut, the line (c) (d) in the middle 'tis neceſſary by the third Rule in my <hi>Praecognita,</hi> that the line ſhould go full as much again, or ſix Foot more from the line of ſtanding (a) (b) before it can reach the Plain (b) (d), the ſame reaſon applied De<g ref="char:EOLhyphen"/>monſtrates the reſt.</p>
+                  <p>The Demonſtration of the line of Tangents in Pla<g ref="char:EOLhyphen"/>no is evident, for if ſight be by right lines, as it is, and the rays of ſight at ſix Foot, and twelve, <hi>&amp;c.</hi> before demonſtrated, be true, as they cannot but be, then the line in Plano cannot but be true likewiſe, becauſe it is no other than the proportion of ſight intercepted in right Lines before it reaches the Points of Demon<g ref="char:EOLhyphen"/>ſtration 6 and 12, <hi>&amp;c.</hi>
+                  </p>
+                  <p>To conclude, I have Decipher'd your Tangents both by the parts of the Square and the degrees of the Circle, ſo that you may be able to underſtand how to uſe either upon occaſion; in taking of a Proſpect, as for your Line of Tangents in Plano, you may draw it bigger or leſs, to the proportion of whatſoever Picture you pleaſe, by a Square accordingly; but I think this matter is explained ſufficiently.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="11" facs="tcp:109533:8"/>
+               <head>CAP. V. <hi>A Landskip on the Proſpect Exalted, and not a Plain.</hi>
+               </head>
+               <p>BY what has been ſaid it appears that if at any time you are to Idea and Draw out a large Pro<g ref="char:EOLhyphen"/>ſpect with variety of Sights, you muſt either ſuppoſe yourſelf looking on riſing ground, and then you may ſee as far as any Object is capable of being ſeen by the Rules of Opticks, as ſhall be ſhewn hereafter, or elſe you muſt ſuppoſe yourſelf placed as on a Hill, and then the Altitude of the Hill will as it were become yours, and encreaſe your ſight accordingly; and ſo ſuppoſing yourſelf on an Hill but of forty Rods high, if a peice of flat Wood, or any other body of an agree<g ref="char:EOLhyphen"/>able ſize for ſight, were in the Plain of the Sea, you might diſcern it near a League off in a clear day.</p>
+               <p>
+                  <hi>Example:</hi> But becauſe I will tell you how to take a Proſpect from an Hill, I ſhall add you this other Figure:</p>
+               <pb n="12" facs="tcp:109533:9"/>
+               <p> The Plain.</p>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+               <p>
+                  <hi>Explanation:</hi> As for the Demonſtration of this Fi<g ref="char:EOLhyphen"/>gure, it needs it not, becauſe it depends wholly on the ſame grounds as the precedent, only there is this lit<g ref="char:EOLhyphen"/>tle difference, that at preſent you are meaſuring by a Circle and Square of a vaſtly larger ſize than what you were before; however, as I told you in my <hi>Prae<g ref="char:EOLhyphen"/>cognita,</hi> the ſame Ratio of Meaſure of this Circle con<g ref="char:EOLhyphen"/>tinues with what did before, all the difference is that
+<pb n="13" facs="tcp:109533:9"/> as before you reckon'd the Meaſures of your ſtanding by ſix Foot, your height only, ſo now imagining your ſelf on an Hill (which you may ſhew on the ſide of your Landskip if you pleaſe) you muſt add the Hill's height to it.</p>
+               <p>Thus in the precedent Example you have the Eye at (c) upon a Hill of a quarter of a Mile, and with the little Quadrant (a) ſetting off the greater (b), now I have taken this Hill to be a quarter of a Mile high for Example, but you may either imagine it any other height at pleaſure, or elſe if you are to take any real Proſpect, find it by your Quadrant only by looking at any known Villages about you; but this you muſt remember, that in real meaſuring of Diſtance, you muſt allow a little for the deſcent of the Hill, becauſe the point (b) at the bottom of the Hill is but imagi<g ref="char:EOLhyphen"/>nary, and in the bowels of the Earth, for it is not as in the firſt Figure where the Line of ſtanding is wholly in your perſonal length, for here is the Hill added, and as much as the Line (c) (d) is longer than the Line of Plain (c) (b) ſo much is to be added to what<g ref="char:EOLhyphen"/>ever Diſcent is ſet off for the Diſcent of the Hill, that is, about 25 Rod, in our preſent Caſe a little more then a ¼ of a ¼ of a Mile, nor is more to be added whether the Tangent or Diſtance ſet off be further or nearer, whether one Mile or twenty, becauſe the Deſcent is but one, be the Diſtance what it will.</p>
+               <p>As for the reaſon of ſetting off my Scale of Miles, why at 45 Degrees it ſhould give ¼ of a Mile, it de<g ref="char:EOLhyphen"/>pends on this, by my <hi>Praecognita</hi> I ſhewed you, that a Quadrant at 45 Degrees neceſſary ſets off a Square, and conſequently if the Line of ſtanding (c) (b) be a quarter of a Mile, and the Line of Plain (d) (b) be as ſtreight and a Square equal to it, it muſt needs con<g ref="char:EOLhyphen"/>tain
+<pb n="14" facs="tcp:109533:10"/> a ¼ of a Mile's diſtance likewiſe, but indeed if the Deſcent of the Hill be not compleat to the Plain at 45 Degrees, 'tis otherwiſe, and allowance is to be made accordingly, as may be gathered from the Rules of Tangents following:</p>
+               <p>1. Where-ever the Line of Tangents is intercept<g ref="char:EOLhyphen"/>ed before it comes to the real Plain (d) (b) it makes as it were a new Plain, <hi>pro hac vice.</hi> 2. You are to Idea the length of your Line of Standing no otherwiſe then as ſhall anſwer the Deſcent of your Tangent, but if your Tangent after finds liberty to deſcend with free<g ref="char:EOLhyphen"/>dom to the real Plain, then you may take your full Line of Standing likewiſe, thus if the Hill at (f) inter<g ref="char:EOLhyphen"/>cept the Tangent (c) (d) you are to reckon your Line of Standing no longer then from (c) to (e), but be<g ref="char:EOLhyphen"/>cauſe the Hill (f) does not intercept your ſight at the Tangent (g), therefore for that Tangent you are to take the real Plain (d) (b).</p>
+               <p>Further, as for the Line (g) the Tangent at ½ a Mile's diſtance, it's reaſon is becauſe it cuts in half the Parallel Perpendicular Line (d) which anſwers to the Line of Standing in the Square (c) (b), for this was de<g ref="char:EOLhyphen"/>monſtrated by the Lines of Secancy before, that if one Line cut another it will make an equal Verge on both ſides, if it be ſtreight; ſo that if the Secant (g) has gone but ¼ of a Mile from the Line of Standing, and yet has cut the Paralel in ½ 'tis Plain in a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>/4 of a Mile more, that is in ½ a Mile the Secant (g) will reach the Plain (b) (d).</p>
+               <p>So I ſet off the Tangent (h) to be three Miles, the reaſon is the Secant (h) cuts the Paralel at the ¼ of a Mile's diſtance, but at a 1/12 part ſo that it will go 11 times further, or 12 quarters of Miles, or three whole Miles in all before it will reach the Plain as aforeſaid
+<pb n="15" facs="tcp:109533:10"/> (b) (d), and thus by the ſame reaſon you may ſet off all the reſt, and many other proportions of Tangents, if you pleaſe, for the Paralel Line (d) which is incident of courſe to the Angle found at (d) by the 45 Degrees, as I have before ſhewed, is as a continual and demonſtrable Mea<g ref="char:EOLhyphen"/>ſure to all the Tangents that ſhall paſs through it towards the Plain (b) (d), be they of any kind whatever.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CAP. VI. <hi>Of the Circularity of Tangents.</hi>
+               </head>
+               <p>BEſides what has been already ſaid, you ought to ob<g ref="char:EOLhyphen"/>ſerve, that in every Landskip or Picture, there ought to be a Center of Sight round with all your Tangents ought to fall as naturally as the Circumference to the Center; now this Center of Sight you may either make imaginary out of the Picture, and ſo at what diſtance you pleaſe, or elſe really in it, and that either in the midſt of the Foot for a Building or in one Corner, where being to deſcribe a Vale, you caſt your Tangents to the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>For Example: You take your Compaſſes, and put<g ref="char:EOLhyphen"/>ting them to your Line of Tangents in Plano, you take the ſeveral diſtances and ſet them off one after another upon the Center you pitch upon, thus in the preſent Figure in a Plain, where Hills nor Buildings diſtract the Sight, the Eye at (6) ſeeing every way alike, ſets off his Proſpect like as in theſe Lines, thus ſuppoſe (5) to ſhew a quarter of a Mile, (4) half a Mile, and ſo for the reſt, or more or leſs lines of Tangents at your pleaſure.</p>
+               <pb n="16" facs="tcp:109533:11"/>
+               <figure>
+                  <figDesc>diagram</figDesc>
+               </figure>
+            </div>
+            <div n="7" type="chapter">
+               <head>CAP. VII. <hi>Of the Proportions of Buildings, Hills and Vales.</hi>
+               </head>
+               <p>HAving already given you the general Rules of Pro<g ref="char:EOLhyphen"/>ſpects both on Plains and where the Sight is raiſ<g ref="char:EOLhyphen"/>ed, I ſhall now proceed to ſhew how Buildings, Hills, and Trees, ought to be ſet off, and of theſe firſt for Buildings, as for Trees the ſame Rules will ſerve for them as for Buildings, and therefore I ſhall not particularly trouble myſelf about them, but leave them as Corol<g ref="char:EOLhyphen"/>laries to my Readers apprehenſion; I know right well as to expreſs enough helps the Underſtanding, ſo to ſpeak or write much and needleſs confuſes and confounds it.</p>
+               <div n="1" type="section">
+                  <head>SECT. I. <hi>Of Buildings.</hi>
+                  </head>
+                  <p>Were you to ſet off the height of any extraordinary Building in a Piece, and would you do it exactly, ſuppoſe it were <hi>Salisbury</hi> Steeple, which is 400 Foot high, or there about, your Method is firſt to decipher the place of its ſtanding in your Piece, and how many Degrees, or Parts, or Length ſuch a Building in Plano would take up
+<pb n="17" facs="tcp:109533:11"/> at that diſtance, and by that you are to erect your Alti<g ref="char:EOLhyphen"/>tude; thus ſuppoſe you would draw it a Furlong from the Center of Sight, and it be a quarter of a Furlong high, as it is at leaſt, and a Furlong by the Rules I have be<g ref="char:EOLhyphen"/>fore ſhewn you, take up eight Inches in your Landskip, you muſt draw the Steeple two Inches high, and that is the juſt proportion, or exact enough; for as I may ſay ſo you ſet off his height by the proportion it holds to the Circle of the Tangent where it ſtands, by the Rules of the Circle laid down in my <hi>Praecognita.</hi>
+                  </p>
+                  <p>So if you are to draw an Arch of Building of a conſi<g ref="char:EOLhyphen"/>derable length, or ſome long Wall, if in ſuch caſe you take the two Altitudes of its ends at their ſeveral lengths, then by drawing paralel Lines between their Tops and Baſiſſes, you find the juſt proportion of their Diminuti<g ref="char:EOLhyphen"/>on and Encreaſe to your ſight, even from one end to the other, be it never ſo long.</p>
+                  <p>So if you are to draw a Wall half a Mile long, and at half a Mile's diſtanee, you are then to imagine the Cen<g ref="char:EOLhyphen"/>ter of Sight, that is, where your Eye ſtands a Center, and ſo you are to reckon from thence to the Tangent of half a Mile 60 Degrees, when you have done this, you may eaſily decipher any proportion of the length of ſuch a Wall, for as if it were half a Mile and round, 'twould take up juſt 60 Degrees, that is, be as long in the Cir<g ref="char:EOLhyphen"/>cumference as from the Center of Sight to the Tangent of Diſtance, ſo as 'tis ſtreight if you ſet it off by the Line of Tangents in a Plano, agreeable to that diſtance you have your deſire, and that muſt be done, becauſe as I have before ſhewn you, the Tangents fall in Circular Lines round the Center of Sight, ſo that if a ſtraight Line be put it muſt needs croſs ſeveral little Tangents.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="18" facs="tcp:109533:12"/>
+                  <head>SECT. II. <hi>Of Statues and Pictures ſet as Diſtance.</hi>
+                  </head>
+                  <p>Further, if you are to draw a Picture, or frame a Sta<g ref="char:EOLhyphen"/>tue, if you make it for a Plain, you ought as I may ſay, to take the proportion of the Life, but if it is to ſtand a<g ref="char:EOLhyphen"/>loft or at ſome diſtance from the ſight, then both in your Picture and Statue you ought to exceed the Life, and you ought to frame your proportions in both by a Line of Tangents of ſuitable ſize to the diſtance, the Statue or Picture is to be placed from the ſight; and in this caſe your Line of Tangents will be of excellent advantage to you for proportions, will as it were naturally and of courſe follow them from the ordinary ſize to whatever you ſhall pleaſe to direct and be like a Scale as it were to weigh out other Meaſures from them.</p>
+                  <p>Thus ſuppoſe a Picture placed at ſix Foot diſtance on a Plain, take up five Degrees in the Circle of Sight, for ſo any body about ſix Inches broad will do then, I ſay if you would remove this Picture to ſtand 60 Foot high, but to new draw it and to make it large enough, to ap<g ref="char:EOLhyphen"/>pear at that diſtance as diſtinct as before, at ſix Feet di<g ref="char:EOLhyphen"/>ſtance, you muſt make it of a proportion to take up five Degrees in the face as before, that is, you muſt make the face of five Foot over, and the reſt of the body proporti<g ref="char:EOLhyphen"/>onal, and then as all things of five Degrees are equally apprehended by the Sight, ſo that Statue at ſixty Foot diſtance ſhall be as diſtinct featur'd to the ſight, as that at ſix.</p>
+                  <p>But becauſe ſuch a Statue would be monſtrouſly large, and of vaſt weight, therefore let us ſuppoſe that a face were ſet ſix Foot from us, and were carv'd or drawn with<g ref="char:EOLhyphen"/>in the compaſs of an Inch, or a little better, that is, near as
+<pb n="19" facs="tcp:109533:12"/> big again as is mentioned in the firſt Chapter; I ſay, ſuch a Face might be viſible enough, and would take up but one Degree in the Circle of Sight; therefore a Statue that takes up one Degree in the Sight, may do pretty well too at 60 Foot diſtance from the Sight, now as one Foot is a Degree in 60 Foot, ſo if ſuch a Statue were made a Foot over in the Face, it might do well enough, that is, as well at 60 Foot as the Statue of an Inch, and a little better will do at ſix Foot; now as I have thus ſhewn the proportions in this caſe, ſo with a little labour this will lead you too any other whatever, ſo that what I have written in this matter, I think is ſufficient, and I ſhall only make this Reflection on it, that I do not doubt but by this means by the help of Fire to hold Correſpon<g ref="char:EOLhyphen"/>dence with a Friend in a Siege, nay, and the intermedi<g ref="char:EOLhyphen"/>ate Enemy not having ſo much as a jealouſie of the mat<g ref="char:EOLhyphen"/>ter, ſhall have his ſight quite taken off by a due Tan<g ref="char:EOLhyphen"/>gent of Scaffolding.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>SECT. III. <hi>Of Hills and Vales.</hi>
+                  </head>
+                  <p>I ſhall now proceed to the Tangents of Hills and Dales, and ſhew how they are to be decipher'd, and in this caſe there is but very little difference between the Tangents of Buildings and Hills, indeed a Building is beſt ſet off in a direct proſpect, as being more full to the ſight, but a Vally in an obligne one, becauſe you may be able to take the more room, and make your Tangents the larger to expreſs the greater and more lively variety in it, but if your Cloth be large enough you may make your Valley ſtreight or how you pleaſe; as for the Plain height and depth of your Hill or Valley, the common uſe of the Line of Tangents will ſhew you how to raiſe
+<pb n="20" facs="tcp:109533:13"/> or depreſs it as you ſhall ſee occaſion at any diſtance, or to any height whatever you may apply it in the ſame manner as you did to Buildings.</p>
+                  <p>To conclude, I know nothing further to acquaint you with, that may pertinently Inſtruct you further in this Matter, unleſs it be, that you always caſt your Shadows at one and the ſame Angle, and that according to the E<g ref="char:EOLhyphen"/>levation of the Sun in your Landskip; for tho' this may not anſwer rightly to your Sun in the Landskip, as it is decipher'd in Plano, yet to the truth, and the Sun in the Heaven Shades are at the ſame Angles, at any one Pro<g ref="char:EOLhyphen"/>ſpect whatever.</p>
+               </div>
+            </div>
+            <div n="8" type="chapter">
+               <head>CAP. VIII. <hi>Of the length of Proſpect, and what things are out of Sight.</hi>
+               </head>
+               <p>BUt there is a proportion how far things may be ſeen as well as how big they will appear; thus ſome<g ref="char:EOLhyphen"/>times they will be loſt to the ſight, and thus we cannot ſee the Edge of a Knife or the Point of a Needle, and yet in a Proſpective they ſhall appear groſs and ſcragged bo<g ref="char:EOLhyphen"/>dies; Now the Rule of this Proportion is, or at leaſt ve<g ref="char:EOLhyphen"/>ry near it, whenever any body thro' its diſtance or ſmal<g ref="char:EOLhyphen"/>neſs becomes ſo little as to take up but a Minute, or the 60th part of a Degree in the Circle of Sight, from that inſtant it is quite loſt and diſappears.</p>
+               <p>Thus even the Sun, were he removed proportionably further in the Circle of Sight, ſo as to become as a Mi<g ref="char:EOLhyphen"/>nute, he would be inviſible, or very near ſo; and thus it is, that the leſſer Stars which are as it were Minutes to the extended Sight in the Heaven, appear and are ſeen
+<pb n="21" facs="tcp:109533:13"/> as it were with a force to our Eyes, and yet not but that there's ſome difference between Bodies luminous and ob<g ref="char:EOLhyphen"/>ſcure, for indeed a luminous Body as a Beacon ought to be reckon'd by its extent of Rays, and not barely by its bulk.</p>
+               <p>Thus it is very difficult without Glaſſes to ſee an Inch 3600 Inches, or an 100 Yards off, where it becomes a Minute, but if a Candle were placed at that diſtance, which poſſibly ſhould not poſſeſs ſo great an extent in meer Flame, yet as it both contracts the Sight to it, and ſpreads in rays, it may be ſeen near ten times as far; ſo were a body of any colour of a Yard ſquare ſet 3600 Yards off, that is, ſo as to become a Minute, which is but little better than a Mile off, 'tis impoſſible well to ſee it with the ſight without Proſpectives, but if a flame of leſs extent were made in a dark night, it would be ſeen near ten times as far, by the Rules afore deliver'd, where<g ref="char:EOLhyphen"/>as a Pan of Coals in the night, or a Fire in the day, want<g ref="char:EOLhyphen"/>ing that power of diffuſing rays and contracting the ſight, are capable of been ſeen no further than a Body of that ſize, by the Rules of Perſpective, as aforeſaid.</p>
+               <p>But to proceed from hence, it is, that is, from propor<g ref="char:EOLhyphen"/>tional Diminution, that if you ſtand at an agreeable di<g ref="char:EOLhyphen"/>ſtance you ſhall ſee the Sign when the Poſt that bears it is diſappear'd; ſo you ſhall ſee the Vane when the Stem of the Wethercock is diſappear'd, and yet a Poſt or Bar of Iron of an Inch ſquare in ſuch a caſe from its length ſhall receive double diſtance of ſight from what it would have, that is, if an Inch ſquare diſappears as the ſight being ſcatter'd at an 100 Yards, yet if an Inch ſquare be a Yard long, it ſhall be ſeen near 200 Yards; that is, to 30 Seconds, becauſe the length in ſuch a caſe recollects the ſight, and continues it at leaſt to another Diminution; but the ſight in ſuch caſe that ſhall ſee it while poſſeſſes
+<pb n="23" facs="tcp:109533:14"/> only 15 Seconds, that is, when it is 400 Yards off, muſt be a kind of Wonder or Miracle, without it receive help by Glaſſes: But yet the Lead in Glaſs-windows ſeems to be viſible ptoportionably much further in this caſe, for though it be but about a quarter or a third part of an Inch broad, it may be ſeen better than an 100 Yards; but indeed there is a Fallacy in this caſe, for it is not ſo much the Lead that we ſee in ſuch caſe, but we ſee as it were little ſtops made to the luminous Waves of Light made through the various Reflections of the Glaſs; and this muſt needs be ſeen even as far as the Glaſs itſelf can be ſeen diſtinctly.</p>
+               <p>By the ſame Rules were a Building like the Monu<g ref="char:EOLhyphen"/>ment ſcituate to the beſt advantage on a Hill, you might eaſily ſee it till it came to be a Minute in the Circle of Sight, and after that, with ſome difficulty, till it comes to be 30 Seconds, by the Rules laſt paſt; that is, becauſe it has length greater than its breadth; then thus, ſuppoſe, I ſay, the Monument were a Rod in the diameter or breadth at top, that is, five Yards and a Foot, as I con<g ref="char:EOLhyphen"/>ceive it may be there abouts; then I ſay the Monument will take up a Degree in the Quadrant of Sight at a Fur<g ref="char:EOLhyphen"/>long and a half's diſtance, 30 Minutes at a qr. ½ qr. of a Mile, 15 Minutes at 3 qr. of a Mile, 7½ at a Mile and a ½, 3¾ at 3 Mile, about 2 Minutes at 6 Miles diſtance, and about one Minute at 11 Miles diſtance, after that at 22 Miles it will become as 30 Seconds to the Sight, which is as great a diſtance as the Eye is ordinarily able to reach and diſcern it at.</p>
+               <p>
+                  <hi>Nota,</hi> Thus Aſtronomers ſolve the Rationality of the appearrnce of <hi>Mars</hi> to the Earth.</p>
+               <p>Thus too you may know how far even the Graces of ſuch a Building may be ſeen; ſo how far the Features of a Man's Face, or a Statue; for inſtance, if an Eye take
+<pb n="22" facs="tcp:109533:14"/> up an Inch, it may be juſt diſcerned at an 100 Yards diſtance, but that ſo faintly that were it not the pro<g ref="char:EOLhyphen"/>portion of the Body did direct us to it, we could not perceive; ſo were there a Ring of a Foot ſquare round the Monument, it might be ſeen 1200 Yards, that is, 3600 Foot, or between a quarter and half a Mile, and after that, it will not be diſcernible at all; but I ſhall ſay no more of this nature, for I am afraid I have ex<g ref="char:EOLhyphen"/>plain'd this matter ſo much already, that I ſhall be guilty of a Repetition as bad as Tautology.</p>
+               <p>But as by what has been ſaid, it appears that things may be loſt to the ſight by their remoteneſs from it, ſo on the other ſide, if an Object be of an agreeable quantity for ſight, we may diſcern it, though at any diſtance whatever, for thus we ſee the Heaven and Stars, and yet this is only where the ſight has a free Plain, as in the Heavens, for were there an Hill ten Miles high, and proportionably large, by the Rule of Sight it would be ſeen at leaſt 36000 Miles off, but in ſuch caſe the very circularity of the Earth long be<g ref="char:EOLhyphen"/>fore that ſpace would cloud it from the ſight; thus I believe the very <hi>Teneriffe</hi> is a little obſcur'd, for were the Earth truly plain, and that Mountain not too picked to be loſt to the ſight for want of breadth, it would not only with eaſe be ſeen an 100 Miles, for at that diſtance 'twould fill a Degree in the Quadrant, but even 60 times as far, even till it come to a Mi<g ref="char:EOLhyphen"/>nute, as I have before demonſtrated; but as that Hill reaches at leaſt the Region of the Clouds, ſo the leaſt Cloud in all that proſpect would obſcure it.</p>
+               <p>But to illuſtrate this the more by Example, ſup<g ref="char:EOLhyphen"/>poſe an Hill a Mile high, whereas the <hi>Teneriffe</hi> is re<g ref="char:EOLhyphen"/>puted near two in the Perpendicular; but I ſay, ſup<g ref="char:EOLhyphen"/>poſe an Hill only one Mile high in the Perpendicu<g ref="char:EOLhyphen"/>lar,
+<pb n="24" facs="tcp:109533:15"/> and we were out at Sea from it in a clear day, I ſay ſuch an Hill at 60 miles diſtance would at leaſt take up one Degree in the Quadrant, by the propor<g ref="char:EOLhyphen"/>tions at firſt laid down in my <hi>Praecognita,</hi> and if ſo, it might be well ſeen near 60 times further; ſo if it were half a mile high, 'twould appear half a Degree, if a quarter 15 Minutes, if a Furlong high, about ſe<g ref="char:EOLhyphen"/>ven half Minutes; but as I have ſaid, when it is come to a Minute or there-abouts, that is, not to be above the 4th part of a Furlong, or 20 Rod only in height, from that inſtant, as I have ſaid, it becomes inviſible, without, as I formerly acquainted you, it be of an a<g ref="char:EOLhyphen"/>greeable length to attract the ſight.</p>
+               <p>But there is another reaſon that hinders long Pro<g ref="char:EOLhyphen"/>ſpects beſides the Circularity of the Earth, to wit, the groſſneſs of our Atmoſphear, the impurity of the Air; thus in large Proſpects, as at the <hi>Alps</hi> the Pike of <hi>Te<g ref="char:EOLhyphen"/>neriffe</hi> and other Hills, if you ſee towards them at a great diſtance, ſuppoſe ſixty Miles or better, if the Sun do not ſit as it were purpoſly to illuminate you, and the Air be not extreamly clear, you cannot ſee ſo much as the leaſt appearance of them; indeed the Air between will as it were fill and ſatisfie the Eye with a Sky-blew; ſo that though the Atmoſphear may in ſome meaſure advance the ſight, in cauſing the Hill to encreaſe and look larger ſome minutes than really it is, yet as with all it obſtructs the ſight to ſo great a degree, 'tis not to be expected, that any wonderful Proſpect is capable of being atchieved on this Level of the Earth.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="25" facs="tcp:109533:15"/>
+               <head>CAP. IX. <hi>Of your Landskips by Perſpective and Glaſ<g ref="char:EOLhyphen"/>ſes.</hi>
+               </head>
+               <p>HAving thus far proceeded on the Delineating of plain Proſpects, I ſhall now ſpeak a little to thoſe that may be taken by Perſpective, and then con<g ref="char:EOLhyphen"/>clude.</p>
+               <p>Know then there is no more difficulty to ſet off a Proſpect by Perſpective, be it of any kind whatever, then there is in ſetting it off by the Sight, for having look'd with your Perſpective on two or three Objects, and by your obſervation found it's meaſure of increaſe to your ſight, you may as juſtly draw your Tangents to anſwer your Proſpective, I mean in a remote Pro<g ref="char:EOLhyphen"/>ſpect, as you can to anſwer your ſight in a near one; and afterwards, if you reduce ſuch a larger Line of Tangents by perſpective to your leſſer and more true one, you may make your Landskip to expreſs the Fi<g ref="char:EOLhyphen"/>gures of Proſpect more perfect and lively than any Eye by any poſſibility can reach too.</p>
+               <p>From whence you ſee that the difference between a Landskip taken by ſight and Proſpective, is only this, that a Perſpective-glaſs makes the Circle of Sight appear larger than it is, which is impoſſible to be de<g ref="char:EOLhyphen"/>lineated
+<pb n="26" facs="tcp:109533:16"/> in Plano, except in a Landskip only of part of a Proſpect, for indeed as the Eye is the only true meaſure of Proportion, which gives every body its true place according to the Ratio of a Circle; ſo whatever exceeds that, is erronious; and yet on the other ſide, the Perſpective may help the Eye, as I have ſaid, when reduc'd, for where the Eye can by no poſſibility particulariſe or diſtinguiſh nicely the parts of a Proſpect, the Perſpective reduc'd may clear it to your deſires.</p>
+               <p>I might add here too, that light that is caſt through reflection may reach to a vaſt extent, as we ſee by the Moon; but that the light through refraction even of the Sun, extends but to fifteen Degrees, as we ſee plainly, 'tis dark an hour after Sun ſet in the Win<g ref="char:EOLhyphen"/>ter-time, by which means you may ſee how to order the light of Windows and Stair-caſes; I might here<g ref="char:EOLhyphen"/>to likewiſe add to what Poſitions of Sight and Light a Picture beſt anſwers, as how to draw Pictures in Lines of Refractions which can only be ſeen by Glaſ<g ref="char:EOLhyphen"/>ſes; as alſo how to caſt Species againſt a Wall, Glaſ<g ref="char:EOLhyphen"/>ſes or any ſolid body whereby you may imitate the appearance of Spirits in Glaſſes, or indeed of any Ap<g ref="char:EOLhyphen"/>parition in a Room, if you pleaſe: but what ſhall I ſay, theſe are the <hi>Curioſiora Mathematicae;</hi> and tho' they are not unworthy the conuſance of a Philoſo<g ref="char:EOLhyphen"/>pher, as he is ſometimes led by the knowledge of things, uſeleſs to thoſe that are of benefit, yet as to practice, they are rather of evil conſequence and di<g ref="char:EOLhyphen"/>verſion than any real ſubſerviency.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="27" facs="tcp:109533:16"/>
+               <head>CAP. X. <hi>CONCL<g ref="char:V">Ʋ</g>SION.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Am now drawn to my Concluſion, and as I con<g ref="char:EOLhyphen"/>ceive, this that I have deliver'd you is all the Ge<g ref="char:EOLhyphen"/>ometry that is uſeful either for Landskips or Statues; this I can aſſure you, 'tis all I can readily think of, and this I can ſay from my own Conſcience to you, I have left no doubt that I knew in my mind unſolv'd in it, ſo that I hope 'tis moderately perfect, or if it is not ſo, I wiſh it ſo; I have taken ſome pains in it, for I was not willing you ſhould take a Picture drawn by my mind at the firſt ſetting, and yet I hope it is eaſie too, for whilſt I have labour'd to be ſhort, I have with all endeavour'd from being obſcure.</p>
+               <p>You ſee by what I have ſhewn you, that there is not a Grace-line or Shade in a Picture, Landskip or Sta<g ref="char:EOLhyphen"/>tue, that is not govern'd by a Demonſtration; you ſee how the Limner and Carver do but Eſſay by gueſs at the more perfect Lines of Opticks, and tho' it might be true what is generally urg'd, that to tie the Fan<g ref="char:EOLhyphen"/>cy too nicely to Rules, confounds and deſtroys it; yet 'tis as true, that to leave the Fancy boundleſs of proportion, is as barbarous and ignorant; and be<g ref="char:EOLhyphen"/>ſides, would Men conſider aright, theſe Proportions
+<pb n="28" facs="tcp:109533:17"/> ſhould be ſet off at the firſt draught, and then they rather help the Fancy that follows in the colours than marr it; nor will this be with difficulty, for with a print of Chalk, or a little Lettice of ſmall Wiers, the firſt proportions may be ſet of without the leaſt trouble.</p>
+               <p>I might have amplified what I have written to a Volume, but I love ſhortneſs: I could have trac'd ma<g ref="char:EOLhyphen"/>ny other curious Points, as how to know the diſtance of an Hill by the ſight, how to raiſe a Statue, that to the whole City of <hi>London</hi> ſhall ſhew the exact Features of a Man at once; nay, not only ſo, but I am perſwa<g ref="char:EOLhyphen"/>ded without Romancing, I could order ſuch a Pile on <hi>Southwark-ſide,</hi> that ſhould imitate the Features of a<g ref="char:EOLhyphen"/>ny particular Perſon, and that not without ſome Life, and to be diſcern'd diſtinctly very near at any of the Stairs on <hi>London-ſide;</hi> but theſe are Curioſities too remote from uſe or practice; and as I never lov'd to encourage Flea-chaines and Air-bottles, ſo I now beg leave to reſt</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>
+               <hi>PAge</hi> 4 <hi>line</hi> 12 <hi>for Cirles read Circles; p.</hi> 13 <hi>l.</hi> 31 <hi>neceſſary r. neceſſa<g ref="char:EOLhyphen"/>rily; p.</hi> 15 <hi>l.</hi> 12 <hi>with r. which; p.</hi> 24 <hi>l.</hi> 8 <hi>about ſeven half Minutes r. ſeven Minutes and an half.</hi> Beſides this, the Reader is deſired to take notice of the falſe Stops, of which he may ſee an example <hi>p.</hi> 18 <hi>l.</hi> 12, which in ſome places diſguiſe the ſence, but with a little of his care may eaſily be a<g ref="char:EOLhyphen"/>mended.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
